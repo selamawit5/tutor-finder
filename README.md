@@ -34,7 +34,6 @@ the two in one place.
 ## Project documents
 
 - `PROPOSAL.md`: the project proposal (due 2 November)
-- `DECISIONS.md`: the group's decisions log
 - `labs/`: each member's individual lab work
 
 ## Setup, architecture and screenshots
