@@ -1,0 +1,27 @@
+schema: "1"
+
+title: "Tutor Finder: Tutoring Marketplace"
+
+summary: "An app that helps students to find and book trusted tutors for their courses so that they get affordable help before exams."
+
+members:
+  - name: "Selamawit Amare"
+    student_id: "UGR/0193/16"
+    email: "selamawitamare.1@gmail.com"
+    github: "selamawit5"
+    lab_folder: "labs/selamawit-amare"
+  - name: "Rediet Assefa"
+    student_id: "UGR/0072/16"
+    email: "redinaagt@gmail.com"
+    github: "redietassefa"
+    lab_folder: "labs/rediet-assefa"
+  - name: "Melkamu Philipose"
+    student_id: "UGR/1557/16"
+    email: "melkamuphilipos791@gmail.com"
+    github: "MelkamuPhilipos"
+    lab_folder: "labs/melkamu-philipose"
+  - name: "Tsegaye Shewamare"
+    student_id: "UGR/2048/16"
+    email: "shewamaretsegaye@gmail.com"
+    github: "tse-coder"
+    lab_folder: "labs/tsegaye-shewamare"
